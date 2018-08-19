@@ -1,4 +1,4 @@
-# concurrancy related projects will be put here. Either these are related to golang or python.
+# concurrancy related projects will be put here. Either these are related to golang and python.
 
 Understanding
     Threads, Green threads and Coroutines.
